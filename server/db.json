@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Fokacha 🍞",
+            "description": " Fokacha Focsa with tomatoes and basil  ",
+            "price": 1.75,
+            "quantity": 1,
+            "image": "/images/fokacha.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Baguette 🥖",
+            "description": " Fresh French baguette  ",
+            "price": 2.90,
+            "quantity": 1,
+            "image": "/images/baguette.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Croissant 🥐",
+            "description": "French croissant ",
+            "price": 2.20,
+            "quantity": 1,
+            "image": "/images/croissant.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Pizza pastry 🍕",
+            "price": 1.90,
+            "quantity": 1,
+            "description": "Pizza pastry with tomatoes ",
+            "image": "/images/pizza_pastry.webp"
+        },
+        {
+            "id": 5,
+            "name": "Sponge Cake 🍰",
+            "price": 3.90,
+            "quantity": 1,
+            "description": "Red velvet cake with strawberries ",
+            "image": "/images/red_velvet.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Lemon Pie 🍋",
+            "price": 3.90,
+            "quantity": 1,
+            "description": " Lemon cream and whipped cream decorations",
+            "image": "/images/lemon.jpeg"
+        }
+    ]
+}

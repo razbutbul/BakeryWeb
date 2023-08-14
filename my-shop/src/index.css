@@ -1,0 +1,168 @@
+.shop-name {
+    background-image: url("/public/images/HeaderLogo.png");
+    background-position: 107% 39%;
+    background-repeat: no-repeat;
+    padding: 1.5rem;
+    margin: 1.5rem;
+    border-radius: 14rem;
+    font-size: 120%;
+    font-weight: 140;
+    font-style: italic;
+    color: #cfbc5d;
+    box-shadow: 2px 2px 120px #cfbc5d;
+}
+
+.CartAndHomelogo {
+    font-size: 50px;
+}
+
+a:link {
+    margin: 0.5rem;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.content {
+    padding: 1.5rem;
+    margin: 1.5rem;
+    border-radius: 14rem;
+    font-size: 120%;
+    font-weight: 140;
+}
+
+.AddToCartButton {
+    background-color: #ffec7472;
+    border-radius: 15px;
+    font-size: 100%;
+}
+
+.AddToCartButton:hover {
+    background-color: #ffec74;
+    transform: scale(1.1);
+}
+
+.nameItem {
+    color: #eed764;
+}
+
+.nameItem:hover {
+    color: #ccc6aa;
+}
+
+.SubTitle {
+    color: #e3d369;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 2px 2px 7px #ffda1f;
+}
+
+.desInHomePage {
+    font-size: 120%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ccc6aa;
+}
+
+.homeItems {
+    text-align: center;
+    width: 25%;
+    border: 8px solid #e3d36922;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.homeItems:hover {
+    border: 8px solid #ccc6aa34;
+}
+
+.items-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.CartIMG {
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    object-fit: cover;
+    box-shadow: 2px 2px 7px #ffda1f;
+}
+
+.CartTitle {
+    color: #eed764;
+}
+
+.CartTitle:hover {
+    color: #ccc6aa;
+}
+
+.CartIMG:hover {
+    transform: scale(1.02);
+}
+
+.decButton {
+    margin: 0.5rem;
+    background-color: #fd7878;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+
+.incButton {
+    margin: 0.5rem;
+    background-color: #74f781;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+
+.decButton:hover {
+    background-color: #fd4646;
+    transform: scale(1.1);
+}
+
+.incButton:hover {
+    background-color: #4afc5c;
+    transform: scale(1.1);
+}
+
+
+.doneButton {
+    background-color: #74f781;
+    margin: 0.5rem;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+
+.doneButton:hover {
+    background-color: #4afc5c;
+    transform: scale(1.1);
+}
+
+.ClearCart {
+    background-color: #fd7878;
+    margin: 0.5rem;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+
+.ClearCart:hover {
+    background-color: #fd4646;
+    transform: scale(1.1);
+}
